@@ -1,5 +1,5 @@
 # Mortaland_ServeArena_Minecraft
-Mortaland is a serve of arena created by childs in 2012.
+Mortaland is an arena server created by children in 2012.
 
 PVP Minecraft Servers
 
